@@ -1,0 +1,34 @@
+[
+    {
+      "id": 1,
+      "title": "Title Content.",
+      "subTitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "image": "./../assets/img/airq-symbol.svg",
+      "alt": "Screenshot 1",
+      "direction": "row"
+    },
+    {
+        "id": 2,
+        "title": "Title Content.",
+        "subTitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",  
+        "image": "./../assets/img/airq-symbol.svg",
+        "alt": "Screenshot 2",
+        "direction": "row-reverse"
+      },
+      {
+        "id": 3,
+        "title": "Title Content.",
+        "subTitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",  
+        "image": "./../assets/img/airq-symbol.svg",
+        "alt": "Screenshot 3",
+        "direction": "row"
+      },
+      {
+        "id": 4,
+        "title": "Title Content.",
+        "subTitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",  
+        "image": "./../assets/img/airq-symbol.svg",
+        "alt": "Screenshot 4",
+        "direction": "row-reverse"
+      }
+]
